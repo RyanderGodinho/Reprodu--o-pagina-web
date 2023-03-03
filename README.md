@@ -2,8 +2,6 @@
 
 O objetivo deste exercício é replicar o website abaixo.
 
-- [Home](#Home)
-
 ### Home
 
 Seções
